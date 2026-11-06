@@ -1,0 +1,4 @@
+numpy
+matplotlib
+htmltools@git+https://github.com/posit-dev/py-htmltools.git@main
+shiny@git+https://github.com/posit-dev/py-shiny.git@main
